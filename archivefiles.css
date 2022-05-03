@@ -1,0 +1,59 @@
+
+#header
+{
+ background:#00a2d1;
+ width:40%;
+ height:50px;
+ color:#fff;
+ font-size:36px;
+ font-family:Verdana, Geneva, sans-serif;
+ }
+ 
+ include 'includes/footer.php';
+ {
+ background:#00a2d1;
+ width:40%;
+ height:50px;
+ color:#fff;
+ font-size:36px;
+ font-family:Verdana, Geneva, sans-serif;
+ }
+ 
+}
+input {
+  width: 40%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 40px;
+}
+button {
+  border: 40px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+}
+
+table {
+  width: 40%;
+  border-collapse: collapse;
+  margin: 100px auto;
+}
+th,
+td {
+  height: 10px;
+  vertical-align: center;
+  border: 1px solid black;
+}
+
+btn btn-default{
+	 border: 1px solid black;
+}
+
+include 'includes/footer.php'{
+	vertical-align: center;
+}
+
+
+
+
